@@ -1,0 +1,51 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-windows-titlebar/versions/0.14.0/tarball",
+  "_id": "atom-windows-titlebar@0.14.0",
+  "_inBundle": false,
+  "_integrity": "sha512-nwd1HDp49rIRRhZbqz4L+H2Kdrkgv7Lr6Rwq+TM+2Je6l1NqynG5XxdKLHz8pJp77zhARIMwWuDJPxNRQknDKg==",
+  "_location": "/atom-windows-titlebar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-windows-titlebar/versions/0.14.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-windows-titlebar/versions/0.14.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-windows-titlebar/versions/0.14.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-windows-titlebar/versions/0.14.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-windows-titlebar/versions/0.14.0/tarball",
+  "_shasum": "4268c0defe9eeb3f0b0292c1b894612f38418c17",
+  "_spec": "https://www.atom.io/api/packages/atom-windows-titlebar/versions/0.14.0/tarball",
+  "_where": "C:\\Users\\19chs\\AppData\\Local\\Temp\\apm-install-dir-12027-30392-1cwlqwd.6z5d",
+  "bugs": {
+    "url": "https://github.com/sean-codes/atom-windows-titlebar/issues"
+  },
+  "bundleDependencies": false,
+  "configSchema": {
+    "hideFrame": {
+      "title": "Hide Frame",
+      "description": "Hide windows frame. After changing this setting you need to restart Atom",
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "The replacement titlebar for Windows",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/sean-codes/atom-windows-titlebar#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/atom-windows-titlebar",
+  "name": "atom-windows-titlebar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean-codes/atom-windows-titlebar.git"
+  },
+  "version": "0.14.0"
+}

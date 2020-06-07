@@ -1,0 +1,26 @@
+{
+  "bugs": {
+    "url": "https://github.com/sean-codes/atom-windows-titlebar/issues"
+  },
+  "bundleDependencies": false,
+  "configSchema": {
+    "hideFrame": {
+      "title": "Hide Frame",
+      "description": "Hide windows frame. After changing this setting you need to restart Atom",
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "The replacement titlebar for Windows",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/sean-codes/atom-windows-titlebar#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/atom-windows-titlebar",
+  "name": "atom-windows-titlebar-edit",
+  "version": "0.14.0"
+}
