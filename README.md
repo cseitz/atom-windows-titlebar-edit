@@ -2,6 +2,13 @@
 
 The titlebar replacement for Atom on Windows 10
 
+Slightly edited version of https://atom.io/packages/atom-windows-titlebar
+
+Edits:
+ - Menu Bar now also matches theme
+ - Menu Dropdowns are stylized to match theme
+ - Slight coloring changes for Maximize/Minimize/Close buttons
+
 ## Matches titlebar with Theme
 ![Theme](https://raw.githubusercontent.com/sean-codes/atom-windows-titlebar/master/example/example_theme.gif)
 
