@@ -10,10 +10,7 @@ Edits:
  - Slight coloring changes for Maximize/Minimize/Close buttons
 
 ## Matches titlebar with Theme
-![Theme](https://github.com/cseitz/atom-windows-titlebar-edit/master/example/example_theme.gif)
-
-## Keeps Default Menu (Use alt key to show/hide)
-![Menu](https://github.com/cseitz/atom-windows-titlebar-edit/master/example/example_menu.gif)
+![Theme](https://github.com/cseitz/atom-windows-titlebar-edit/master/example/new_example_theme.gif)
 
 ## How it works
 You need to enable/disable windows default frame!
