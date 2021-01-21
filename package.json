@@ -9,6 +9,18 @@
       "description": "Hide windows frame. After changing this setting you need to restart Atom",
       "type": "boolean",
       "default": false
+    },
+    "packages": {
+      "title": "Put Packages in the Menu Bar",
+      "description": "Your most used packages can be put in the menu bar in addition to the Packages tab. Name of package as it appears in the package tab, comma space separated. (example: 'Git Diff, Timecop, Tree View')",
+      "type": "string",
+      "default": ""
+    },
+    "packages2": {
+      "title": "Put Packages in the Atom Icon",
+      "description": "Your most used packages can be put in the Atom Icon dropdown in addition to the Packages tab. Name of package as it appears in the package tab, comma space separated. (example: 'Git Diff, Timecop, Tree View'). Also supports pathed commands, and commands themselves. (example: 'GitHub.Toggle Git Tab:Toggle Github Window', 'application:reopen-project;Reopen Project')",
+      "type": "string",
+      "default": ""
     }
   },
   "dependencies": {},
