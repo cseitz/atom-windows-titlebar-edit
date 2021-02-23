@@ -21,6 +21,12 @@
       "description": "Your most used packages can be put in the Atom Icon dropdown in addition to the Packages tab. Name of package as it appears in the package tab, comma space separated. (example: 'Git Diff, Timecop, Tree View'). Also supports pathed commands, and commands themselves. (example: 'GitHub.Toggle Git Tab:Toggle Github Window', 'application:reopen-project;Reopen Project')",
       "type": "string",
       "default": ""
+    },
+    "hides": {
+      "title": "Hide Menu Entries",
+      "description": "Comma-Space separated EXACT text of menu entries to hide. Useful for clearing up your menus. Example: 'Toggle Soft Wrap, Select Word'",
+      "type": "string",
+      "default": ""
     }
   },
   "dependencies": {},
@@ -38,5 +44,5 @@
     "type": "git",
     "url": "https://github.com/cseitz5/atom-windows-titlebar-edit.git"
   },
-  "version": "0.22.0"
+  "version": "0.22.1"
 }
