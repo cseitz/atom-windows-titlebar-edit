@@ -27,6 +27,12 @@
       "description": "Comma-Space separated EXACT text of menu entries to hide. Useful for clearing up your menus. Example: 'Toggle Soft Wrap, Select Word'",
       "type": "string",
       "default": ""
+    },
+    "unmaximized_bounds": {
+      "title": "Unmaximized Window Bounds",
+      "description": "Internal value. Don't worry about this unless you know what you are doing.",
+      "type": "string",
+      "default": ""
     }
   },
   "dependencies": {},
